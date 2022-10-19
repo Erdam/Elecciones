@@ -1,4 +1,4 @@
-# AppStore
+# Elecciones
 
 #### Bienvenido a las Elecciones.
 Se desea crear una aplicación que permita manejar información y estadísticas sobre unas 
